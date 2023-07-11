@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "patientname": "Amit kumar",
+      "status": "normal",
+      "regno": "123456",
+      "fathername": "manoj kumar",
+      "dob": "22-05-1996" ,
+      "phoneno" : "0112346455",
+      "address" : "harmu",
+      "city" : "ranchi"
+    },
+    {
+      "id": 2,
+      "patientname" : "suman kumari" ,
+      "status" : "critical" ,
+      "regno" : "789012",
+      "fathername" :"aman kumar",
+      "dob" :"23-06-1997",
+      "phoneno" : "0152346455",
+      "address" : "argora",
+      "city" : "ranchi"
+    },
+      {
+      "id": 3,
+      "patientname" : "Nikhil Kumar" ,
+      "status" : "critical" ,
+      "regno" : "789012",
+      "fathername" :"aman kumar",
+      "dob" :"23-06-1997",
+      "phoneno" : "0152346455",
+      "address" : "argora",
+      "city" : "ranchi"
+    },
+      {
+      "id": 4,
+      "patientname" : "Rupesh Kumar" ,
+      "status" : "critical" ,
+      "regno" : "789012",
+      "fathername" :"aman kumar",
+      "dob" :"23-06-1997",
+      "phoneno" : "0152346455",
+      "address" : "argora",
+      "city" : "ranchi"
+    },
+      {
+      "id": 5,
+      "patientname" : " hemant Kumar" ,
+      "status" : "critical" ,
+      "regno" : "789012",
+      "fathername" :"aman kumar",
+      "dob" :"23-06-1997",
+      "phoneno" : "0152346455",
+      "address" : "argora",
+      "city" : "ranchi"
+    },
+      {
+      "id": 6,
+      "patientname" : " praveen Kumar " ,
+      "status" : "critical" ,
+      "regno" : "789012",
+      "fathername" :"aman kumar",
+      "dob" :"23-06-1997",
+      "phoneno" : "0152346455",
+      "address" : "argora",
+      "city" : "ranchi"
+    },
+  {
+      "id": 7,
+      "patientname" : "Rakesh Kumar " ,
+      "status" : "critical" ,
+      "regno" : "789012",
+      "fathername" :"aman kumar",
+      "dob" :"23-06-1997",
+      "phoneno" : "0152346455",
+      "address" : "argora",
+      "city" : "ranchi"
+    }
+  ]
+}
